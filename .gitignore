@@ -1,2 +1,7 @@
 5sem*
 .ipynb*
+lab_1.2/*.png
+lab_1.2/*.log
+lab_1.2/*.syn*
+lab_1.2/*.aux
+lab_1.2/.ipynb*
