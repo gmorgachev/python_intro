@@ -5,4 +5,6 @@ lab_1.2/*.log
 lab_1.2/*.syn*
 lab_1.2/*.aux
 lab_1.2/.ipynb*
+lab_1.2/results.fdb_latexmk
+lab_1.2/results.fls
 tmp.ipynb
